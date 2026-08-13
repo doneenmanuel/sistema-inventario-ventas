@@ -1,0 +1,9 @@
+# No subir base de datos ni respaldos personales
+*.db
+respaldo_*.db
+Factura_N*.pdf
+
+# Archivos temporales
+__pycache__/
+*.pyc
+.env
